@@ -1,0 +1,5 @@
+.vscode
+ejemplo/cursoc.code-workspace
+ejemplo/*.exe
+ejemplo/tempCodeRunnerFile.c
+
